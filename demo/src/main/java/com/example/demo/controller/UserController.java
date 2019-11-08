@@ -13,6 +13,6 @@ public class UserController {
 
     @RequestMapping(value = "/getUserName")
     public String getUserName(@RequestParam(value = "userId") String userId) {
-        return  StringUti== null ? "null" : userId;
+        return userId == null ? "null" : userId;
     }
 }
