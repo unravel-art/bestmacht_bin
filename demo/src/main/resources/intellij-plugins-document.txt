@@ -1,0 +1,5 @@
+手把手教你开发
+http://imushan.com/2017/04/01/java/ide/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%BC%96%E5%86%99IntelliJ-IDEA%E6%8F%92%E4%BB%B6/
+
+官方文档
+http://www.jetbrains.org/intellij/sdk/docs/welcome.html
