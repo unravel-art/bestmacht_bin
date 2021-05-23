@@ -1,2 +1,2 @@
-# bestmacht_bin
-bestmatch
+# intellij-plugins-demo
+deprecated.
